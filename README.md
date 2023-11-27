@@ -25,6 +25,4 @@ Admin functionalities:-
 6) Check all Booking status
 7) Check Passenger details.
 
-new ..
-
    
